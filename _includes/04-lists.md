@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Food
+  * Chocolate
+  * BBQ
+  * Coffee
+* Hobbies
+  * Coding
+  * Binge watching shows
