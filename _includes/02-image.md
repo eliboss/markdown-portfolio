@@ -1,1 +1,1 @@
-![A rainy day in Montreal](IMG_20201015_205555.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
